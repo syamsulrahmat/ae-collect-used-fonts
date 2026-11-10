@@ -1,0 +1,15 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Adobe Temporary / Output Files
+*.tmp
+*.bak
+*~
+Font Collection Report.txt
+Fonts/
+
+# Editor Directories
+.vscode/
+.idea/
